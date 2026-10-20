@@ -64,7 +64,7 @@ flutter:
 
   # --- AQUÍ ESTÁ LA CORRECCIÓN: SE ACTIVARON LOS ASSETS ---
   assets:
-    - assets/logo.jpg
+    - assets/logo1.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
