@@ -52,7 +52,7 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF0F172A),
+      backgroundColor: const Color(0xFF11B7E4),
       body: SafeArea(
         child: Center(
           child: LayoutBuilder(
@@ -82,7 +82,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     ),
                     const SizedBox(height: 20),
                     const Text(
-                      'Mr. Pulpo',
+                      'La Ostra Del Golfo',
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
