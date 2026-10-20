@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mr-pulpo-pos",
+          "appId": "1:56449441054:android:35540f45226c309a6efd0f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mr-pulpo-pos",
+          "configurations": {
+            "android": "1:56449441054:android:35540f45226c309a6efd0f",
+            "ios": "1:56449441054:ios:35f4ce584d75950f6efd0f",
+            "macos": "1:56449441054:ios:35f4ce584d75950f6efd0f",
+            "web": "1:56449441054:web:0f873415cf5ba7756efd0f",
+            "windows": "1:56449441054:web:8fec00a540b18bb36efd0f"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

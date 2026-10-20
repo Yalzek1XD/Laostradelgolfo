@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56449441054",
+    "project_id": "mr-pulpo-pos",
+    "storage_bucket": "mr-pulpo-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56449441054:android:35540f45226c309a6efd0f",
+        "android_client_info": {
+          "package_name": "com.example.restaurante_visual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC94w62HgJKkZNAL-CO1wcIvm7cUt0vSmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
